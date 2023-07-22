@@ -1,14 +1,14 @@
 @font-face{
   font-family: 'Anderson';
   src: url('AndersonGroteskBold.woff') format('woff');
-  font-weight: bold;
+  font-weight: 700;
   font-style: normal;
 }
 
 @font-face{
   font-family: 'Anderson';
   src: url('AndersonGroteskReguler.woff') format('woff');
-  font-weight: normal;
+  font-weight: 400;
   font-style: normal;
 }
 
@@ -16,5 +16,12 @@
   font-family: 'Anderson';
   src: url('AndersonGroteskUltraBold.woff') format('woff');
   font-weight: 900;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'Anderson';
+  src: url('AndersonGroteskUltraLight.woff') format('woff');
+  font-weight: 300;
   font-style: normal;
 }
