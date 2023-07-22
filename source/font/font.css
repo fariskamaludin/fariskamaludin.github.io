@@ -1,11 +1,4 @@
 @font-face{
   font-family: 'Anderson';
-  src: url('AndersonGroteskRegular.woff') format('woff'),
-  url('AndersonGroteskBold.woff') format('woff'),
-  url('AndersonGroteskLight.woff') format('woff'),
-  url('AndersonGroteskBoldOblique.woff') format('woff'),
-  url('AndersonGroteskOblique.woff') format('woff'),
-  url('AndersonGroteskUltrabold.woff') format('woff'),
-  url('AndersonGroteskUltraOblique.woff') format('woff'),
-  url('AndersonGroteskLightOblique.woff') format('woff')
+  src: url('AndersonGroteskBold.woff') format('woff')
 }
